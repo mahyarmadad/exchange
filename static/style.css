@@ -1,0 +1,33 @@
+.jumbotron{
+    background: url(currency.png) no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.jumbotron h1{
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px black;
+    font-weight: 700;
+}
+
+.card,.card-body{
+    background: transparent;
+}
+.form{
+    text-align: center;
+    margin: 10px auto;
+}
+.form-group{
+    margin-left: 10px;
+}
+
+#ans{
+    color: yellow;
+    margin: 50px auto;
+    text-shadow: 3px 3px 3px black;
+}
+#btn{
+    height: 100px;
+    border: none;
+    outline: none;
+    background: transparent;
+}
